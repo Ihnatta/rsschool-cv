@@ -40,5 +40,3 @@ function multiplay(a,b){ return a* d};
 - English intermediate
 
 - Polish intermediate (I have been living in Poland for 1 year)
-
-
