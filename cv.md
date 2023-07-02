@@ -13,6 +13,7 @@
 
 - JavaScript
 - HTML
+- CSS
 
 ### Code Example
 
