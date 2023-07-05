@@ -1,1 +1,1 @@
-[link to github ](https://Ihnatta.github.io/rsschool-cv/cv)
+[link to github ](https://Ihnatta.github.io/rsschool-cv/)
