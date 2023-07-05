@@ -30,7 +30,7 @@ function multiplay(a,b){ return a* d};
 
  ```
 
- ### Education
+### Education
 
  ** Kharkov State Academy of Railway Transport **
 
@@ -38,7 +38,7 @@ function multiplay(a,b){ return a* d};
 
  1998-2003
 
- ### Languages
+### Languages
 
 - Ukrainian  native
 
