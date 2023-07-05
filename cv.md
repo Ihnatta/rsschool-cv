@@ -3,6 +3,7 @@
 ## Junior Frontend Developer
 
 ### Contacts
+
 - Phone: +380730137360, +48732604795
 
 - Email: annaignatva@gmail.com
