@@ -24,15 +24,14 @@ My strengths lie in my dedication to self-development, attention to detail, and 
 
 ### Code Example
 
-```
 
 function multiplay(a,b){ return a* d};
 
- ```
+ 
 
 ### Education
 
- ** Kharkov State Academy of Railway Transport **
+  Kharkov State Academy of Railway Transport 
 
  engineer *automation, telemechanics, communication*
 
